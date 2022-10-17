@@ -1,0 +1,78 @@
+body{
+    background-color: aqua;
+    background-image: url('cocuk.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: right top;
+
+    background: aqua color purple;
+}
+
+
+
+
+table{
+    background-color: bisque;
+}
+
+ul{
+    background-color: rgb(100,50, 5;
+}
+.ozel-sinif{background-color: yellowgreen;}
+
+#ozel-id{
+    background-color: violet;
+
+
+    }
+.ozel-p{
+    background-color: bisque;
+    text-align: justfy;
+    text-indent: 0.9cm;
+    text-decoration: none;
+    line-height: 10mm;
+    letter-spacing: 2pt;
+    word-spacing: 1.5em;
+    font-size: 105%;
+    font-style: italic;
+    font-weight: bold;
+
+
+    font-family: 'Courier New', Courier, monospace ;
+
+}
+
+.ozel-a{
+    background-color: yellowgreen;
+    text-decoration: none;
+    font-size: 0.2in;
+    font-style: italic;
+    font-weight: bold;
+
+}
+
+.ozel-a:link{
+
+
+}
+
+h1{
+    background-color: beige;
+    text-transform:uppercase ;
+
+}
+
+h2{
+    background-color: beige;
+    text-transform: lowercase;
+}
+
+
+
+hangi etiket{
+
+    hangi ozellik:nasil degosecek;
+    hangi ozellik:nasil degisecek;
+}
+
+/*burada body yapilir*/
